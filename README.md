@@ -7,7 +7,7 @@ I'm a **Hardware Engineer** with a strong interest in **Cloud Technologies**. Cu
 - **Nordic SDK** with **C** for nRF-series devices
 - **MQTT** and **gRPC** protocols for device communication
 - **Protobuf** encoding for efficient data serialization
-- **AES with ECDH25519** for Zerotrust provisioning and secure device authentication
+- **AES with ECDH25519** for Zero Trust provisioning and secure device authentication
 
 ### ☁️ Cloud & Infrastructure
 - **Azure** serverless app development

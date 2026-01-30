@@ -1,63 +1,59 @@
-## Building anything for everything
 
-IoT engineer by profession, by passion, and **occasionally by poor life choices at 2AM when it doesn’t compile**.
+## 👋 About me
 
-I started close to the metal: hardware, firmware, C, and debugging classics like  
-👉 *“what do you mean index length-1 is out of bounds?”*
+I’m an IoT engineer by profession, by passion, and **occasionally by poor life choices at 2AM when it doesn’t compile**. 😄☕  
+Started in **hardware + firmware**, then kept going until the **whole platform** made sense (cloud, security, data, UI… yup).
 
-Over time, “the device works” stopped being enough.  
-So I kept going — cloud, security, data, APIs, UIs — until the **whole system** made sense.
+If you like people who can jump from **C on a microcontroller** to **cloud architecture** and back without crying (much)… hello there.
 
-Easy-going, pragmatic, and focused on building things that actually survive production.
-
----
-
-## 🧰 Stuff I’ve worked with (and shipped)
-
-🔌 **Embedded / Firmware**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="16"/> C ·  
-<img src="https://www.espressif.com/sites/all/themes/espressif/images/espressif-logo.svg" width="16"/> ESP-IDF (ESP32) ·  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nordic_Semiconductor_Logo.svg" width="16"/> Nordic SDK ·  
-🧠 custom in-house OS / SDK frameworks  
-
-🔐 **Security & provisioning**  
-🛡️ Zero-trust flows · 🔑 ECDH Curve25519 · 🔒 AES · 📦 Protobuf  
-
-📡 **Device ↔ Cloud**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mqtt/mqtt-original.svg" width="16"/> MQTT ·  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" width="16"/> gRPC  
-
-☁️ **Cloud & Backend**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="16"/> Golang ·  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="16"/> Azure ·  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="16"/> Google Cloud ·  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="16"/> Docker · VMs · networking · serverless  
-
-🔑 **Identity & Auth**  
-<img src="https://www.keycloak.org/resources/images/logo.svg" width="16"/> Keycloak (including custom themes & integrations)  
-
-📊 **Data & pipelines**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" width="16"/> InfluxDB ·  
-🗄️ SQL & NoSQL · scalable data flows  
-
-🖥️ **Frontend (when humans need dashboards)**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React ·  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript  
-
-⚙️ **DevOps & delivery**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="16"/> CI/CD · deployments · observability · production-minded systems  
+✅ **Open to roles:** IoT / Embedded / Platform / Solutions / Systems Engineering  
+📍 **EU-friendly timezone** (Portugal) • 🌍 Remote/Hybrid friendly
 
 ---
 
-## 🌌 What I’m building towards
+## 🧰 Toolbox (stuff I’ve actually touched)
 
-Build systems, I try.  
-From firmware to cloud to UI, understand them I must.  
-Secure they should be. Scalable they will be.  
-Break in production… they must not.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" height="26" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="26" />&nbsp;
 
-Still learning, always shipping.
+<br/>
+
+🔌 **Firmware / Embedded:** ESP-IDF (ESP32), Nordic SDK, C, internal SDK/templating frameworks  
+📡 **Protocols:** MQTT, gRPC, Protobuf  
+🔐 **Security:** ECDH Curve25519, AES, zero-trust provisioning vibes  
+☁️ **Cloud:** Azure + Google Cloud (serverless, VMs, networking, containers)  
+🔑 **Auth:** <img src="https://www.keycloak.org/resources/images/logo.svg" height="18" /> Keycloak (including custom themes + integrations)  
+📊 **Data:** InfluxDB, SQL/NoSQL, data flows/pipelines  
+🖥️ **UI:** React + TypeScript (dashboards, control panels)  
+⚙️ **DevOps:** CI/CD, deployments, ops/observability, “works after the demo” mentality
 
 ---
 
-📫 Curious? Recruiters, engineers, and fellow night-shift debuggers — feel free to reach out 👋
+## 🔥 What I’m good at (recruiter speed-run)
+
+- Building **end-to-end IoT platforms** (device → secure comms → cloud → data → APIs → UI)
+- Designing architectures that are **secure, scalable, maintainable**
+- Making “cool tech” become “boring to operate” (the best compliment)
+
+---
+
+## 📫 Reach me
+- ✉️ Email: (use the email shown on my GitHub profile)
+- 💬 Or just open an Issue / Discussion on a repo
+
+---
+
+## 🌌 Working mantra
+
+> “Strong, my systems must be.  
+> Secure, they should be.  
+> Scalable, they will become.  
+> Break in production… they must not.” ⚔️✨
